@@ -1,2 +1,5 @@
 Vadym Voitsehivskyi IPZ21
+<<<<<<< HEAD
 Кофнлікт вирішено)
+=======
+>>>>>>> developer
